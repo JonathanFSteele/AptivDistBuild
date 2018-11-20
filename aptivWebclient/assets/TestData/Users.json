@@ -1,0 +1,44 @@
+[
+    {
+        "username": "rdale",
+        "password": "abc123abc123",
+        "firstName": "Robert",
+        "lastName": "Dale",
+        "role": "SuperAdmin"
+    },
+    {
+        "username": "vray",
+        "password": "abc111abc111",
+        "firstName": "Victor",
+        "lastName": "Lozoya",
+        "role": "SuperAdmin"
+    },
+    {
+        "username": "xsalmon",
+        "password": "abc222abc222",
+        "firstName": "Xitlally",
+        "lastName": "Salmon",
+        "role": "SuperAdmin"
+    },
+    {
+        "username": "gcarrillo",
+        "password": "abc333abc333",
+        "firstName": "Gilbert",
+        "lastName": "Carrillo",
+        "role": "SuperAdmin"
+    },
+    {
+        "username": "jsteele",
+        "password": "abc444abc444",
+        "firstName": "Jonathan",
+        "lastName": "Steele",
+        "role": "SuperAdmin"
+    },
+    {
+        "username": "zmorgan",
+        "password": "abc444abc444",
+        "firstName": "Zachary",
+        "lastName": "Morgan",
+        "role": "SuperAdmin"
+    }
+]
